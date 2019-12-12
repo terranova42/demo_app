@@ -1,8 +1,22 @@
 DemoApp::Application.routes.draw do
+  
+  get 'microposts/index'
+  get 'microposts/show'
+  get 'microposts/new'
+  get 'microposts/edit'
+  get 'microposts/create'
+  get 'microposts/update'
+  get 'microposts/destroy'
+  get 'users/index'
+  get 'users/show'
+  get 'users/new'
+  get 'users/edit'
+  get 'users/create'
+  get 'users/update'
+  get 'users/destroy'
   resources :microposts
-
-
   resources :users
+  root 'users#index'
 
 
   # The priority is based upon order of creation:
