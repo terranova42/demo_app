@@ -6,7 +6,7 @@ gem 'puma',       '3.12.6'
 gem 'sass-rails', '5.1.0'
 gem 'webpacker',  '4.2.2'
 gem 'turbolinks', '5.2.0'
-gem 'jbuilder',   '2.9.1'
+gem 'jbuilder',   '2.10.0'
 gem 'bootsnap',   '1.4.4', require: false
 gem "nokogiri", "1.10.9"
 
