@@ -8,7 +8,7 @@ gem 'webpacker',  '4.2.2'
 gem 'turbolinks', '5.2.0'
 gem 'jbuilder',   '2.9.1'
 gem 'bootsnap',   '1.4.4', require: false
-gem "nokogiri", "1.10.9"
+gem "nokogiri", "1.11.0"
 
 
 group :development, :test do
