@@ -13,7 +13,7 @@ gem 'sass-rails', '6.0.0'
 gem 'webpacker',  '4.2.2'
 gem 'turbolinks', '5.2.0'
 gem 'jbuilder',   '2.9.1'
-gem 'bootsnap',   '1.4.4', require: false
+gem 'bootsnap',   '1.7.4', require: false
 gem "nokogiri", "1.11.0"
 
 
