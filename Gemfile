@@ -10,7 +10,7 @@ gem "actionpack", ">= 6.0.3.5"
 gem 'rails',      '>= 6.0.3.1'
 gem 'puma',       '3.12.6'
 gem 'sass-rails', '6.0.0'
-gem 'webpacker',  '4.2.2'
+gem 'webpacker',  '5.3.0'
 gem 'turbolinks', '5.2.0'
 gem 'jbuilder',   '2.9.1'
 gem 'bootsnap',   '1.4.4', require: false
