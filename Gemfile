@@ -8,7 +8,7 @@ gem "actionpack", ">= 6.0.3.5"
 #
 
 gem 'rails',      '>= 6.0.3.1'
-gem 'puma',       '3.12.6'
+gem 'puma',       '4.3.8'
 gem 'sass-rails', '6.0.0'
 gem 'webpacker',  '4.2.2'
 gem 'turbolinks', '5.2.0'
